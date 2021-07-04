@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="btnorganik">btnorganik</string>
+    <string name="btnanorganik">btnanorganik</string>
+    <string name="bsO">bsOrganik</string>
+    <string name="nO">nOrganik</string>
+    <string name="daO">daOrganik</string>
+    <string name="bsAO">bsAnOrganik</string>
+    <string name="nAO">nAnOrganik</string>
+    <string name="daAO">daAnOrganik</string>
+    <string name="btnEND">btnEND</string>
+    <string name="btnINFO">btnINFO</string>
+    <string name="btnBACK">btnBACK</string>
+    <string name="btnDAFTAR">btnDAFTAR</string>
+    <string name="edtnama">edtnama</string>
+    <string name="edtalamat">edtalamat</string>
+    <string name="edtemail">edtemail</string>
+    <string name="edtpassword">edtpassword</string>
+    <string name="edtrepassword">edtrepassword</string>
+    <string name="btnBDAFTAR">btnBDAFTAR</string>
+    <string name="btnSDAFTAR">btnSDAFTAR</string>
+</resources>
